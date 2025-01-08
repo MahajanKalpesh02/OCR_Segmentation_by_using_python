@@ -1,4 +1,4 @@
-# Readmefile for OCR with Word-Level Segmentation
+# Readmefile for OCR with Word-Level And Line-Level Segmentation
 
 This project demonstrates how to perform Optical Character Recognition (OCR) on an image using Tesseract and OpenCV in Python. The script processes an image to extract text and visualize word-level bounding boxes.
 
